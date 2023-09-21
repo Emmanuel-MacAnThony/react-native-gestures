@@ -31,13 +31,13 @@ const styles = StyleSheet.create({
   button: {
     height: 50,
     aspectRatio: 1,
-    backgroundColor: "white",
+    backgroundColor: "orange",
     borderRadius: 25,
     opacity: 0.6,
   },
   container: {
     flex: 1,
-    backgroundColor: "#111",
+    backgroundColor: "white",
     alignItems: "center",
     justifyContent: "center",
   },
